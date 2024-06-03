@@ -21,7 +21,7 @@
 <li>Setiap user dapat mengubah profilenya masing - masing</li>
 <li>Setiap Buku dapat memiliki multiple kategori</li>
 <li>Judul buku dapat berjumlah lebih dari 1 (dapat dibedakan melalui kode buku)</li>
-<li>Bisa melakukan pencaharian buku melalui judul buku</li>
+<li>Bisa melakukan pencarian buku melalui judul buku</li>
 <li>Admin bisa melakukan menambah, mengupdate, dan menghapus: data buku, kategori, dan user</li>
 <li>Setiap Anggota hanya dapat meminjam maksimal 3 buku</li>
 <li>Peminjaman maksimal 7 hari. Jika peminjaman lebih dari 7 hari maka akan dikenakan denda</li>
